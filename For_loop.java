@@ -15,7 +15,7 @@ public class For_loop {
 		int x=20;
 		while(x<=23)
 		{
-			System.out.println(" Masuduzzaman Niloy ");
+			System.out.println(" Tasnia Rahman ");
 			x=x+2;
 		}
 		
